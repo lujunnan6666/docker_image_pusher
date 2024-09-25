@@ -8,6 +8,4 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 redis
-linuxserver/kafka
-linuxserver/mysql:5.7.40
-linuxserver/nacos
+mysql:5.5.42
